@@ -1,2 +1,3 @@
 # demo
-hi nikhil welcome to GitHUb..!!
+hi nikhil, welcome to gitHub
+hello world..!!
